@@ -3,10 +3,10 @@
 </p>
 <a href="https://github.com/sainath-AI?tab=followers"><img src="https://img.shields.io/github/followers/sainath-AI?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/sainath-AI/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sainath-AI">
+    <img src="https://komarev.com/ghpvc/?username=narendrapanchal">
 </a>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sainath</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narendra panchal</h1>
 <h3 align="left">I'm a passionate Full Stack Android Developer from Bengalore,India.</h3>
 
 
