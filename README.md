@@ -63,6 +63,6 @@
 
 <a href = "https://www.linkedin.com/in/narendra-kumar-panchal-7a09031ba"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://stackoverflow.com/users/15161626/narendra-panchal"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-<a href = "https://mail.google.com/mail/u/1/#inbox?compose=CllgCJlJWKvqlVhTRnRsnRsQQKXZdNKJcWckWrHdjDxcGvjHTLPgzfZdKpxKfnxsjwwgFNvqfcL"><img src="https://tse1.mm.bing.net/th?id=OIP.YHBQe3msFcNyDXy1ZP5p-AHaHb&pid=Api&P=0&w=40&h=40"/></a>
+<a href = "https://twitter.com/narendrpanchalk"><img src="https://tse2.mm.bing.net/th?id=OIP.4onP2XdfwJckr_TRVbMiUAHaHa&pid=Api&P=0&w=45&h=45"/></a>
 
 </p>
