@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 Check my Portfolio **[Portfolio](https://my-portfolio-narendrapanchal020-gmailcom.vercel.app/)**
+- 🔭 Check my Portfolio **[Portfolio](https://narendrapanchal.github.io/portfolio/)**
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
