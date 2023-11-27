@@ -7,6 +7,7 @@
 </a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narendra Kumar Panchal</h1>
+<p>A highly dedicated and passionate full-stack web developer with excellent administrative and communication skills and the ability to write efficient code. Looking forward to an exciting opportunity in a challenging role as a full-stack developer</p>
 <h3 align="left">I'm a passionate Full Stack Web Developer from Rajasthan,India.</h3>
 
 
