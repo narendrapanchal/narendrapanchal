@@ -3,7 +3,7 @@
 </p>
 <a href="https://github.com/narendrapanchal?tab=followers"><img src="https://img.shields.io/github/followers/narendrapanchal?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/narendrapanchal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=narendrapanchal">
+<!--     <img src="https://komarev.com/ghpvc/?username=narendrapanchal"> -->
 </a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narendra Kumar Panchal</h1>
