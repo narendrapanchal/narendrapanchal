@@ -18,7 +18,7 @@
 
 - 🔭 Check my Portfolio **[Portfolio](https://narendrapanchal.github.io/portfolio/)**
 
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+- 🌱 Solved *300+ Data Structures and Algorithms* problems.
 
 - 👯 I’m looking to collaborate on *OpenSource Projects and cloning pixel perfect applications*
 
